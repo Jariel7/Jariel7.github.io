@@ -1,5 +1,5 @@
 {
-  "name": "movitaccion",
+  "name": "motivaccion",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:movitaccion": "node dist/movitaccion/server/server.mjs"
+    "serve:ssr:motivaccion": "node dist/motivaccion/server/server.mjs"
   },
   "private": true,
   "dependencies": {

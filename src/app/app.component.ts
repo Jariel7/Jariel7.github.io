@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'movitaccion';
+  title = 'motivaccion';
   featuredQuotes = [
     { text: "La salud es la verdadera riqueza, no piezas de oro y plata.", author: "Mahatma Gandhi" },
     { text: "El ejercicio es una celebración de lo que tu cuerpo puede hacer, no un castigo por lo que comiste.", author: "Desconocido" },
